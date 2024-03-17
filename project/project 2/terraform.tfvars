@@ -1,0 +1,8 @@
+ami      = "ami-034c9ca2bdde7b472"
+tag      = "APP_2"
+s3_name  = "s3app2-b2"
+db_name  = "DB_Table"
+hashkey  = "UserID"
+hashtype = "S"
+region   = "ap-northeast-1"
+net      = "vpc"
